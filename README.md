@@ -61,4 +61,7 @@ ler". However, as I can't understand why, the car brakes as soon as the control 
 Screenshots:
 
 ![Screenshot from 2021-11-08 20-59-20](https://user-images.githubusercontent.com/94018630/141017032-ee4941e4-b027-401c-af26-750eda15d65f.png)
+![Screenshot from 2021-11-10 01-56-15](https://user-images.githubusercontent.com/94018630/141019291-97aa94fe-0a21-49ac-a8b9-2da13b24a9c6.png)
+![Screenshot from 2021-11-10 01-56-31](https://user-images.githubusercontent.com/94018630/141019296-814bacde-0d80-440f-abf0-a83888567513.png)
+![Screenshot from 2021-11-10 01-57-10](https://user-images.githubusercontent.com/94018630/141019309-a0341b70-57b6-4f81-948f-3df85e67b0ec.png)
 
